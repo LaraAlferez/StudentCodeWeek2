@@ -70,7 +70,7 @@ public class StudentDemo
      * @param program the program to set
      */
     public void setProgram(String givenProgram) {
-        this.program = givenProgram;
+        program = givenProgram;
     }
     
 }
